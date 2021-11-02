@@ -1,0 +1,8 @@
+7
+MH01|Cảm biến âm thanh|4|17000
+MH02|Cảm biến quang|2|14000
+MH03|Cảm biến ánh sáng|3|18000
+MH04|Cảm biến mực nước|5|20000
+MH05|Cảm biến từ|2|12000
+MH06|Cảm biến tiệm cận|1|10000
+MH07|Cảm biến nhiệt|2|12000

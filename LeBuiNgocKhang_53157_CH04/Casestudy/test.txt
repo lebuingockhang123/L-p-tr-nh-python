@@ -1,0 +1,6 @@
+The first and last tasks require no design. 
+Let’s assume that the text is input as a single string from the file and is then processed in tasks 2–4.
+These three tasks can be designed as code segments that use the input string and produce an integer value. 
+Task 5, computing the Flesch Index, uses the three integer results of tasks 2–4 to compute the Flesch Index.
+Lastly, task 6 is a code segment that uses the same integers and computes the Grade Level Equivalent.
+The five tasks are listed in Table 4-8, where text is a variable that refers to the string read from the file.

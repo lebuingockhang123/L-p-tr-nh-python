@@ -1,0 +1,9 @@
+A list is a sequence of zero or more elements. The elements can be of any type. The len
+function returns the number of elements in its list argument. Each element occupies a
+position in the list. The positions range from 0 to the length of the list minus 1.
+163
+Lists can be manipulated with many of the operators used with strings, such as the sub-
+script, concatenation, comparison, and in operators. Slicing a list returns a sublist.
+The list is a mutable data structure. An element can be replaced with a new element,
+added to the list, or removed from the list. Replacement uses the subscript operator.
+The list type includes several methods for insertion and removal of elements.

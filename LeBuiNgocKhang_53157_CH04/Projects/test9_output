@@ -1,0 +1,4 @@
+1>This script creates a program listing from a
+2>source program. This script should prompt the user for the names of two files. The
+3>input filename could be the name of the script itself, but be careful to use a different
+4>output filename!

@@ -1,0 +1,2 @@
+1> This script should prompt the user for the names of two text files and compare the contents of the two files to see if they are the same.If they are, the script should simply output "Yes". If they are not, the script
+2> should output "No", followed by the first lines of each file that differ from each other
